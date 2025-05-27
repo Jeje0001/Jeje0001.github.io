@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Ayomide Jeje
-description: Ayomide KekeCEAMLS SAIRI Summer 2025 Research Website
+description: Ayomide Jeje CEAMLS SAIRI Summer 2025 Research Website
 
 motto: "It's a part of life"
 
