@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Ta'quavian Johnson
-description: CEAMLS SAIRI Summer 2025 Research Website
+title: Ayomide Jeje
+description: Ayomide KekeCEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "It's a part of life"
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🎓 Rising Sophomore, Computer Science @ Indiana University"
+  - "🔬 Research: EcgNet: A Hybrid Multimodal Deep Learning Approach for Cardiovascular Disease (CVD) Diagnosis"
+  - "📍 Based in Indianapolis, Indiana"
+  - "🚀 Passionate about building solutions for real world problems"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin: https://www.linkedin.com/in/taquavian-johnson/](https://www.linkedin.com/in/ayomide-jeje-7a4995266/
 image: /assets/images/me.jpg
 ---
