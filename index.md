@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building solutions for real world problems"
 
 linkedin: https://www.linkedin.com/in/ayomide-jeje-7a4995266/
-image: /assets/images/me.jpg
+image: assets/images/me.jpeg
 ---
