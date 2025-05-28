@@ -25,8 +25,8 @@ about:
       description: I love going to the gym, I love the feeling it gives me.
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
+    - image: /assets/images/IMG_1279.jpeg
+      caption: Me
     - image: /assets/images/me-basketball.png
       caption: Hooping and dropping people off at the park 🏀
     - image: /assets/images/me.jpg
