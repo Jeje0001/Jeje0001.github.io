@@ -6,10 +6,10 @@ permalink: /about-me.html
 about:
   name: Ayomide Jeje
   role: Sophmore, Computer Science Major at Indiana University Bloomingtion
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  image: assets/images/DSC03754.jpeg
+  linkedin:https://www.linkedin.com/in/ayomide-jeje-7a4995266/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a Sophmore studying Computer Science at Indiana University in Bloomingtion, Indiana. I expect to graduate in 2028.
 
     My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
 
