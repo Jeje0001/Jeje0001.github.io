@@ -27,8 +27,8 @@ about:
   gallery:
     - image: /assets/images/IMG_1279.jpeg
       caption: Me
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
+    - image: /assets/images/IMG_3FBBFB24-16D3-48AF-8D38-345377237ACC.jpeg
+      caption: Me reading a book
     - image: /assets/images/me.jpg
       caption: My favorite portrait of myself :)
     - image: /assets/images/me-pi.png
