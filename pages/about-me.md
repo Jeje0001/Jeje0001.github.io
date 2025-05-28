@@ -11,20 +11,18 @@ about:
   bio: |
     I’m currently a Sophmore studying Computer Science at Indiana University in Bloomingtion, Indiana. I expect to graduate in 2028.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
-
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+  
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: ⚽️
+      title: Playing Soccer
+      description: I’ve been playing soccer since i was 5, and my favorite team is Manchester United
+    - icon: 🧑🏿‍💻
+      title: Coding
+      description: I enjoy building Applications that solve real-world problems.
+    - icon: 🏋🏻‍♀️
+      title:Gym
+      description: I love going to the gym, I love the feeling it gives me.
 
   gallery:
     - image: /assets/images/me-guitar.png
