@@ -4,8 +4,8 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
+  name: Ayomide Jeje
+  role: Sophmore, Computer Science Major at Indiana University Bloomingtion
   image: /assets/images/me.jpg
   linkedin: https://www.linkedin.com/in/taquavian-johnson/
   bio: |
