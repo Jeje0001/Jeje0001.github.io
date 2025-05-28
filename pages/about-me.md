@@ -29,8 +29,7 @@ about:
       caption: Me
     - image: /assets/images/IMG_3FBBFB24-16D3-48AF-8D38-345377237ACC.jpeg
       caption: Me reading a book
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: /assets/images/IMG_1482.jpeg
+      caption: A picture of me coding
+   
 ---
