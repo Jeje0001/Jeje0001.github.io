@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Ayomide Jeje
   role: Sophmore, Computer Science Major at Indiana University Bloomingtion
-  image: assets/images/DSC03754.jpeg
+  image: /assets/images/DSC03754.jpeg
   linkedin:https://www.linkedin.com/in/ayomide-jeje-7a4995266/
   bio: |
     I’m currently a Sophmore studying Computer Science at Indiana University in Bloomingtion, Indiana. I expect to graduate in 2028.
