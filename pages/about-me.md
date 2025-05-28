@@ -20,7 +20,7 @@ about:
     - icon: 🧑🏿‍💻
       title: Coding
       description: I enjoy building Applications that solve real-world problems.
-    - icon: 🏋🏻‍♀️
+    - icon:  🏋🏻‍♀️
       title:Gym
       description: I love going to the gym, I love the feeling it gives me.
 
