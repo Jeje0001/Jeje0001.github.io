@@ -11,15 +11,15 @@ problem: |
 
 
 
-
 approach: |
   The project follows a five-phase pipeline:
 
-  – Clean raw ECG data using Butterworth filters and wavelet denoising to remove noise and artifacts.
+  - Clean raw ECG data using Butterworth filters and wavelet denoising to remove noise and artifacts.
   - Train three separate models (1D-CNN, 2D-CNN, and LSTM) to learn different types of patterns from the ECG data.
-  – Combine the outputs of all three models to make a more accurate and robust diagnosis.
-  – Use SHAP and LIME to explain why the AI made a specific prediction, improving trust and transparency.  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing
-  – Test the system on real ECG datasets (like MIT-BIH) to measure accuracy and ensure clinical relevance.
+  - Combine the outputs of all three models to make a more accurate and robust diagnosis.
+  - Use SHAP and LIME to explain why the AI made a specific prediction, improving trust and transparency.
+  - Test the system on real ECG datasets (like MIT-BIH) to measure accuracy and ensure clinical relevance.
+
 
 outcome: |
   By the end of the program, the project will result in a working prototype of EcgNet: a multimodal AI system capable of diagnosing cardiovascular conditions from ECG signals. The final deliverables will include a trained model combining 1D-CNN, 2D-CNN, and LSTM architectures, along with explainable AI outputs using SHAP and LIME to visualize the reasoning behind each diagnosis. The system’s performance will be benchmarked using the MIT-BIH dataset, with metrics such as accuracy, precision, recall, and F1-score. A poster presentation will summarize the model architecture, preprocessing pipeline, fusion strategy, and evaluation results. This project will contribute toward scalable, interpretable solutions for AI-assisted cardiac diagnostics in resource-limited settings.
