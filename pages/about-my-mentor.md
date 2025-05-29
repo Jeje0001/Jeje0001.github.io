@@ -4,23 +4,20 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
+  name: Sudip Sharma
+  title: Masters Student, Advanced Computing
   image: /assets/images/graduate-student-mentor.jpg
-  website: https://gradmentor.example.com
+  website: https://gradmentor.example.com](https://www.linkedin.com/in/nxxis/
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
-    
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    He is a first-generation graduate student in Advanced Computing at Morgan State University. His academic journey includes researching proactive methods for ensuring fairness in AI systems in healthcare, addressing biases in AI-powered tools to promote equitable outcomes for all patient groups under the guidance of Dr. Blessing Ojeme. He is passionate about leveraging technology to solve real-world problems, and he is also eager to collaborate on innovative projects in software engineering, AI, or data science.
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
+  name: Dr. Timothy Oladunni
+  title: Professor , Morgan State University
   image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  website: https://www.linkedin.com/in/timothyoladunni/
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
+    He is a distinguished computer scientist, professor, and machine learning researcher specializing in biomedical signal processing, natural language processing, deep learning, and multimodal AI architectures. With a background in electrical engineering, Timothy has dedicated his research to advancing ECG signal analysis, natural language processing, and pattern recognition.
     
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
-
+   
 ---
