@@ -3,34 +3,36 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+subtitle: EcgNet
+project_title: "EcgNet: A Hybrid Multimodal Deep Learning Approach for Cardiovascular Disease (CVD) Diagnosis"
 
 problem: |
-  Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
+  EcgNet solves the shortage of fast, accurate, and explainable ECG diagnosis—especially in places where expert doctors aren’t available.
 
-  This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
+
+
 
 approach: |
-  The project follows a four-phase pipeline:
+  The project follows a five-phase pipeline:
 
-  - Collect EEG data during imagined movements using a non-invasive BCI headset
-  - Train machine learning models to decode intent from neural patterns
-  - Integrate real-time signal classification with a robotic arm interface
-  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing)
-
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
+  – Clean raw ECG data using Butterworth filters and wavelet denoising to remove noise and artifacts.
+  - Train three separate models (1D-CNN, 2D-CNN, and LSTM) to learn different types of patterns from the ECG data.
+  – Combine the outputs of all three models to make a more accurate and robust diagnosis.
+  – Use SHAP and LIME to explain why the AI made a specific prediction, improving trust and transparency.  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing
+  – Test the system on real ECG datasets (like MIT-BIH) to measure accuracy and ensure clinical relevance.
 
 outcome: |
-  By the end of the program, the project will result in a working prototype of a BCI-controlled robotic arm and a poster presentation outlining the system architecture, training pipeline, and evaluation metrics. Insights from the user study will inform future directions in adaptive assistive technology.
+  By the end of the program, the project will result in a working prototype of EcgNet: a multimodal AI system capable of diagnosing cardiovascular conditions from ECG signals. The final deliverables will include a trained model combining 1D-CNN, 2D-CNN, and LSTM architectures, along with explainable AI outputs using SHAP and LIME to visualize the reasoning behind each diagnosis. The system’s performance will be benchmarked using the MIT-BIH dataset, with metrics such as accuracy, precision, recall, and F1-score. A poster presentation will summarize the model architecture, preprocessing pipeline, fusion strategy, and evaluation results. This project will contribute toward scalable, interpretable solutions for AI-assisted cardiac diagnostics in resource-limited settings.
+
+
 
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 
 grad_mentor:
-  name: Jamal Carter
-  linkedin: https://www.linkedin.com/in/jamal-carter
+  name: Sudip Sharma
+  linkedin: https://www.linkedin.com/in/nxxis/
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  name: Dr. Timothy Oladunni
+  linkedin: https://www.linkedin.com/in/timothyoladunni/
 ---
